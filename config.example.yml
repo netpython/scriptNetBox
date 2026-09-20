@@ -1,0 +1,7 @@
+filters:
+  site: null
+  role: null
+  manufacturer: null
+  status: active
+retention_days: 30
+
