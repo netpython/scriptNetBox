@@ -46,3 +46,6 @@ Les identifiants sont lus depuis l'environnement. Les outils sont en lecture seu
 
 MIT.
 
+## Programmes avancés
+
+Le dossier `programs/` contient cinq audits complets : qualité des données, conflits, câblage, comparaison avec une source externe et préparation avant changement.
